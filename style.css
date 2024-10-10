@@ -241,6 +241,37 @@ main section {
     margin-bottom: 32px;
 }
 
-
-
 .offer-image {}
+
+/* instagram section styles  */
+.instagram-content h1 {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.instagram-content p {
+    width: 594px;
+    margin: 0 auto;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    margin-bottom: 48px;
+}
+
+.instagram-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+}
